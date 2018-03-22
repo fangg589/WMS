@@ -10,7 +10,7 @@ import org.slf4j.LoggerFactory;
  *
  * @author Ken
  * @since 2017/3/8.
- */
+ */ 
 public class ServiceLogging {
 
     private static Logger exceptionLogger = LoggerFactory.getLogger("ExceptionLogging");
